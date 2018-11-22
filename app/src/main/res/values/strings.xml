@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Albums</string>
+
+    <string name="loading_albums">Loading Albums\u2026</string>
+    <string name="no_albums">No albums available at this time.</string>
+    <string name="album_user_id">User ID: %1$d</string>
+</resources>
